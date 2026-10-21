@@ -1,0 +1,28 @@
+match_id: "202612_Kiroween_Dark_Mode_Hackathon"
+tournament_title: "Kiroween 2026: Code in Dark Mode"
+organizer: "AWS Kiro IDE (Devpost)"
+submission_deadline: "2026-12-04 11:59 PM PT"
+prize_pool: "$100,000 USD (Top Prize $30,000)"
+official_portal: "https://kiro.devpost.com/"
+participation_mode: "Solo Closed (PHANTOM GRID)"
+target_track: "Spec-Driven Agentic Engineering ✕ Dark Mode TUI ✕ Frankenstein (Cross-Architecture Integration)"
+phantom_core_weapon: "華爾街深色機構級戰情大盤 (SPEC_16 / PG-TITAN-TUI) ✕ Kiro Agent Hooks 全域生態鏈 ✕ Rust 微內核 C-ABI"
+
+required_deliverables:
+  - "01_專案企劃與架構_Specs"
+  - "02_核心代碼庫_SourceCode"
+  - "03_封面圖_CoverImage_16x9"
+  - "04_簡報投影片_Slides_PDF"
+  - "05_方案B演示影片_DemoVideo_1440P"
+  - "06_線上Demo部署_LiveApp"
+  - "07_官方提交文案_SubmissionPackage"
+  - "08_審計與認證_AuditReceipts"
+  - "09_混沌壓測與壓測報告_ChaosReports"
+  - "10_發布發行包與免安裝EXE_Releases"
+
+compliance_invariants:
+  spec_first: true
+  vram_ceiling_gb: 50.0
+  zdr_zero_residue_mb: 0.000000
+  vertical_coverage_ratio: 0.78
+  co_signed_by: "COMMANDER JACK HU ✕ EXECUTIVE SECRETARY XIAOMI"

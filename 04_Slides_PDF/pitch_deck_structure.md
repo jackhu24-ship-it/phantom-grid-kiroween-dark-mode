@@ -1,0 +1,12 @@
+# 📊 Pitch Deck 簡報結構綱要 (10-Slide Standard)
+
+1. **Slide 1: Title & Authority Seal** (賽事名稱、PHANToM GRID 銘牌、統帥落款)
+2. **Slide 2: Problem & Industry Friction** (當前 AI Agent 與邊緣系統的延遲、安全與漂移痛點)
+3. **Slide 3: The PHANToM Solution** (PHANToM Grid :: CyberTitan Dark Console——純血 Spec-Driven 代理自癒開發典範，搭載 14 大全閉環模組、華爾街 24-bit TrueColor 深色 TUI 戰情儀表板與生命週期全自動 Agent Hooks 執法中樞。)
+4. **Slide 4: System Architecture (四圖一表)** (三欄佈局、微秒級時序與 ASIL-D 狀態機)
+5. **Slide 5: Core Tech Innovation** (華爾街深色機構級戰情大盤 (SPEC_16 / PG-TITAN-TUI) ✕ Kiro Agent Hooks 全域生態鏈 ✕ Rust 微內核 C-ABI)
+6. **Slide 6: Live Benchmarks & Latency** (1,000 幀壓測、P99 < 1.0ms、50GB 顯存熔斷)
+7. **Slide 7: ZDR Zero Data Retention** (物理雙重覆寫 0xAA -> 0x00，0.00MB 殘留確證)
+8. **Slide 8: Product Readiness & Live App** (雲端即時互動環境與 CLI TUI 控制台)
+9. **Slide 9: Team & Execution Track Record** (Solo Architect Jack Hu ✕ 秘書處小米 ✕ 14 站全滿貫)
+10. **Slide 10: Conclusion & Direct Links** (GitHub 連結、Devpost 提交包、可掃碼 QR Code)
