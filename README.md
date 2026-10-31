@@ -36,8 +36,9 @@
 
 ---
 
-## 📺 1080P Demonstration Video & Pitch Deck
-- **1080P Master Demo Video**: [`05_DemoVideo_1440P/PHANTOM_GRID_Kiroween_Demo_1080P.mp4`](05_DemoVideo_1440P/PHANTOM_GRID_Kiroween_Demo_1080P.mp4)
+## 📺 1440P Demonstration Video & Pitch Deck
+- **YouTube Live Demo (Broadcast Tier)**: [Watch on YouTube (`https://youtu.be/Ar80GwqyEkA`)](https://youtu.be/Ar80GwqyEkA)
+- **Local Master Video**: `05_DemoVideo_1440P/PHANTOM_GRID_Kiroween_Demo_1080P.mp4`
 - **10-Slide Landscape Pitch Deck (PDF)**: [`04_Slides_PDF/Kiroween_PitchDeck.pdf`](04_Slides_PDF/Kiroween_PitchDeck.pdf)
 - **Interactive Live App**: `http://localhost:8080` (`python app.py`)
 
