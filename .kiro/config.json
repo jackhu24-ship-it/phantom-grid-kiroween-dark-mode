@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "project": "PHANToM Grid :: CyberTitan Dark Console",
+  "kiroUserId": "d-9067c98495.24b81468-9021-7005-38e6-781b3ab0cd43",
+  "profileId": "EHGA3GRVQMUK",
+  "awsAccountId": "699475941385",
+  "machineId": "b9c8b9fea54d2226f3b9083517005ea094fcebf8621cbf3a650e3c4f2d12ee8e",
+  "license": "KIRO FREE (Q Developer Standalone)",
+  "tracks": [
+    "Frankenstein",
+    "Costume Contest",
+    "Skeleton Crew"
+  ],
+  "specDriven": true
+}

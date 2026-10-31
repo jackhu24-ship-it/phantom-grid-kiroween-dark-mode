@@ -1,0 +1,8 @@
+# Kiro IDE Autonomous Spec
+spec_id: SPEC-KIRO-CYBERTITAN-01
+title: CyberTitan Wall Street Dark ANSI TrueColor Terminal
+invariants:
+  vertical_coverage: ">= 78%"
+  terminal_columns: "<= 118"
+  vram_circuit_breaker: "50.0 GB"
+  zdr_memory_purge: "0.000000 MB"
